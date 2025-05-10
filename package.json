@@ -1,6 +1,6 @@
 {
   "name": "com.justco.aurora",
-  "displayName": "aurora",
+  "displayName": "jeremy",
   "version": "1.0.0",
   "description": "A sample Apache Cordova application that responds to the deviceready event.",
   "main": "index.js",
@@ -13,7 +13,7 @@
   "author": "Apache Cordova Team",
   "license": "Apache-2.0",
   "devDependencies": {
-    "cordova-android": "^14.0.0",
+    "cordova-android": "^14.0.1",
     "cordova-browser": "^7.0.0",
     "cordova-electron": "^4.0.0"
   },
@@ -23,11 +23,6 @@
       "browser",
       "electron"
     ],
-    "plugins": {
-      "cordova-plugin-camera": {}
-    }
-  },
-  "dependencies": {
-    "cordova-plugin-camera": "8.0.0"
+    "plugins": {}
   }
 }

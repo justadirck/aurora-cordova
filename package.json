@@ -1,6 +1,6 @@
 {
-  "name": "com.justco.aurora",
-  "displayName": "jeremy",
+  "name": "com.justaco.aurora",
+  "displayName": "aurora",
   "version": "1.0.0",
   "description": "A sample Apache Cordova application that responds to the deviceready event.",
   "main": "index.js",
